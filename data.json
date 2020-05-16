@@ -1,0 +1,56 @@
+{
+  "books": [
+    {
+      "title": "Angel & Demons",
+      "author": "Dan Brown",
+      "id": 1
+    },
+    {
+      "title": "Man inside the machine",
+      "author": "Steve Jobs",
+      "id": 2
+    },
+    {
+      "title": "Hacker's revenge",
+      "author": "Mandele Clever",
+      "id": 4
+    },
+    {
+      "title": "Start from the bottom",
+      "author": "Drake",
+      "id": 7
+    },
+    {
+      "title": "The Hacker",
+      "author": "Blow steen",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "username": "admininstrator",
+      "password": "$2a$10$K4.G6OtJZIolFMdeRfX7GORr5roHmqbXI5O5GpxDZPKFVXk3ND.Fi",
+      "id": 1
+    },
+    {
+      "username": "michele96",
+      "password": "$2a$10$CcAy6ik8UKTOPXOn6Dmld.CV8djYJ3HW4vxG6R/myO7KGZTOgN6UC",
+      "id": 2
+    },
+    {
+      "username": "wwwadmin",
+      "password": "$2a$10$LIQC7PmygsWT7q5XxTfEGOCt5wNGH/qUGkXNDWTKLjr3I8QVgnN9G",
+      "id": 3
+    },
+    {
+      "username": "geek",
+      "password": "$2a$10$l/9IrQ4k00.XlgIlojxFLecN1VpFNnklVZE5fAR92TO5nT9w.jV9a",
+      "id": 4
+    },
+    {
+      "username": "moderator",
+      "password": "$2a$10$q1.HpHh8ubRRkHqMh6dHw.zjtNZKwacli50U9DmBWOqz84M3hboeO",
+      "id": 5
+    }
+  ]
+}
